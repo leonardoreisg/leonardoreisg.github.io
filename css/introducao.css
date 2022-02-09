@@ -1,6 +1,6 @@
 /*configuração de coluna usando grid e aliando itens ao centro*/
 .introducao {
-  max-width: 100%;
+  max-width: 1200px;
   padding: 40px 20px;
   margin: 0px auto;
   display: grid;
